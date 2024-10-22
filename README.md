@@ -15,4 +15,4 @@ to check git status before git add = (red)modified : READMEME.md modified
 
 이제는 add함 
 
-다시 수정
+다시 수정dd
